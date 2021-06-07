@@ -1,0 +1,4 @@
+baseURL = "http://marcelot.org/"
+languageCode = "en-us"
+title = "Junior Developer Provocations"
+theme = "er"
