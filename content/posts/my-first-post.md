@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "The very beginning"
 date: 2021-06-07T17:49:18+02:00
 draft: false
 ---
