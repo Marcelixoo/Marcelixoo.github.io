@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2021-06-07T17:49:18+02:00
-draft: true
+draft: false
 ---
 After spending too much time  talking to myself, I finally took the initiative to start blogging.
 The biggest force blocking me from taking this step was the lack of intention.
